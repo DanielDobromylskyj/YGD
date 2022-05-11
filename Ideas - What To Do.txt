@@ -1,0 +1,17 @@
+Control The Mussles Of A Player - The Longer You Play The More You Have To Control
+
+Needed:
+Custom Controls - In Options
+Pick-up Objects
+
+Ideas:
+Power-ups?
+
+
+
+Removed:
+
+
+
+
+Story / Lore / Goal / Why Are You Doing This / Can I Shorten This?:
